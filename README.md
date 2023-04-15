@@ -1,4 +1,1 @@
-# PrepCourse-Henry
-Este es un proyecto de como crear
-
-Edilberto Taborda
+Este proyecto es una prueba de como crearlo y clonarlo
